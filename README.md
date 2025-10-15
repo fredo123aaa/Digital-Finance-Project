@@ -1,7 +1,7 @@
 # **Digital Finance Project**
 
 ## **Authors**
-- **Fredo Alejos Arrieta**  
+- **Alejos Arrieta Fredo** 
 - **Hachem Legha**
 
 ---
